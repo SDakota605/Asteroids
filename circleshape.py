@@ -1,3 +1,4 @@
+from constants import LINE_WIDTH
 import pygame
 
 
